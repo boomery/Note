@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E26A2E64-138C-437E-88D2-9B19D1B9280B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Note</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7A417BB052290DD3AC7D0C67924167D903D9DAC1</key>
+		<string>http://code.taobao.org/svn/xf-ios/https://gitlab.com/ZhangChaoxin/note.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Note.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7A417BB052290DD3AC7D0C67924167D903D9DAC1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>7A417BB052290DD3AC7D0C67924167D903D9DAC1</key>
+		<string>http://code.taobao.org/svn/xf-ios</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://code.taobao.org/svn/xf-ios</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7A417BB052290DD3AC7D0C67924167D903D9DAC1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7A417BB052290DD3AC7D0C67924167D903D9DAC1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E4%BE%BF%E7%AD%BE</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7A417BB052290DD3AC7D0C67924167D903D9DAC1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E4%BE%BF%E7%AD%BE</string>
+		</dict>
+	</array>
+</dict>
+</plist>

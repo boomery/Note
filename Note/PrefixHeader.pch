@@ -1,0 +1,54 @@
+//
+//  PrefixHeader.pch
+//  Note
+//
+//  Created by ZhangChaoxin on 15/8/14.
+//  Copyright (c) 2015年 ZhangChaoxin. All rights reserved.
+//
+
+#ifndef Note_PrefixHeader_pch
+#define Note_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#define DEF_SCREEN_HEIGHT [[UIScreen mainScreen] bounds].size.height
+#define DEF_SCREEN_WIDTH [[UIScreen mainScreen] bounds].size.width
+
+#import <UIKit/UIKit.h>
+
+//数据库宏定义
+#define FILE_NAME @"notes.sqlite"
+#define TABLE_NAME @"notes"
+
+
+#import "PureLayout.h"
+#import "DataHander.h"
+
+#define THEME_COLOR [UIColor colorWithRed:0.24 green:0.74 blue:0.96 alpha:1]
+
+/**
+ *  判断屏幕尺寸是否为640*1136 5s,5
+ *
+ *	@return	判断结果（YES:是 NO:不是）
+ */
+#define DEF_SCREEN_IS_5s ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size) : NO)
+
+/**
+ *  判断屏幕尺寸是否为750*1334  6
+ *
+ *	@return	判断结果（YES:是 NO:不是）
+ */
+#define DEF_SCREEN_IS_6 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(750, 1334), [[UIScreen mainScreen] currentMode].size) : NO)
+
+/**
+ *  判断屏幕尺寸是否为1080*1920 6plus
+ *
+ *	@return	判断结果（YES:是 NO:不是）
+ */
+
+#define DEF_SCREEN_IS_6plus ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(1242,2208), [[UIScreen mainScreen] currentMode].size) : NO)
+// 线条宽度
+#define LINE_HEIGTH DEF_SCREEN_IS_6plus ? 1.0/3.0 : 1.0/2.0
+
+#endif
