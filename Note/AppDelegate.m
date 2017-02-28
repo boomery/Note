@@ -30,7 +30,7 @@
     [CXDataBaseUtil creatTable];
     
     [self gotoLoginVC];
-    //随便加的注释ASDSAD
+    //随便加的注释ASDSADasdasdas
     return YES;
 }
 

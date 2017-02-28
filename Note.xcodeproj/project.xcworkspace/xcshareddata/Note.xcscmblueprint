@@ -1,26 +1,33 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7A417BB052290DD3AC7D0C67924167D903D9DAC1+++91E4405",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "20EE2537B30744EED78AD15F5F7D617AFE7D4477+++7F2F804",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "7A417BB052290DD3AC7D0C67924167D903D9DAC1+++91E4405" : {
+    "7A417BB052290DD3AC7D0C67924167D903D9DAC1+++A27361D" : {
 
     },
-    "7A417BB052290DD3AC7D0C67924167D903D9DAC1+++A27361D" : {
+    "7A417BB052290DD3AC7D0C67924167D903D9DAC1+++91E4405" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "7A417BB052290DD3AC7D0C67924167D903D9DAC1+++91E4405" : 9223372036854775807,
-    "7A417BB052290DD3AC7D0C67924167D903D9DAC1+++A27361D" : 0
+    "7A417BB052290DD3AC7D0C67924167D903D9DAC1+++A27361D" : 0,
+    "20EE2537B30744EED78AD15F5F7D617AFE7D4477+++7F2F804" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E26A2E64-138C-437E-88D2-9B19D1B9280B",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "7A417BB052290DD3AC7D0C67924167D903D9DAC1+++91E4405" : "%E4%BE%BF%E7%AD%BE\/",
-    "7A417BB052290DD3AC7D0C67924167D903D9DAC1+++A27361D" : "%E4%BE%BF%E7%AD%BE"
+    "7A417BB052290DD3AC7D0C67924167D903D9DAC1+++A27361D" : "%E4%BE%BF%E7%AD%BE",
+    "20EE2537B30744EED78AD15F5F7D617AFE7D4477+++7F2F804" : "Note\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Note",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Note.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boomery\/Note.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "20EE2537B30744EED78AD15F5F7D617AFE7D4477+++7F2F804"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/xf-ios",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
